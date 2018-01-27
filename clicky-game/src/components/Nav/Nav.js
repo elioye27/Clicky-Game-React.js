@@ -2,7 +2,7 @@ import React from 'react';
 import './Nav.css';
 
 const Nav = props => (
-    <nav className="navbar navbar-default" >
+    <nav>
         <ul>
             <li className="brand">Clicky Game</li>
             <li>Click on an image to begin!</li>

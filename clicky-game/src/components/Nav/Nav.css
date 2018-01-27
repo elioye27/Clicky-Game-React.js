@@ -1,8 +1,11 @@
-.navbar {
-    background: #ffa600;
+nav {
+    background-color: black;
+    color: white;
     min-height: 80px;
     position: fixed;
+    top:0;
     width: 100%;
+    opacity: 0.75;
     -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
     box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
     color: rgb(50, 50, 50);
@@ -11,12 +14,13 @@
     white-space: nowrap;
 }
 
-.navbar ul {
+nav ul {
     margin: 0;
     padding: 0;
 }
 
-.navbar li {
+nav li {
+    color: white;
     display: inline-block;
     padding: 26px 0;
     width: 33%;

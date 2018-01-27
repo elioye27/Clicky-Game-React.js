@@ -1,6 +1,7 @@
 .instructions {
   background-color: rgb(63, 63, 63); 
   padding: 20px 20px;
+  opacity: 0.75;
   border-radius: 15px;
   margin-top: 150px;
   width: 100%;
