@@ -1,55 +1,55 @@
 [
   {
     "id": 1,
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Ryu_TvC.png/220px-Ryu_TvC.png",
+    "image": "https://www.fightersgeneration.com/nz2/char/scorpion-mk-hd-sprite-cancelled-project.gif",
     "clicked": false
   },
   
   {
     "id": 2,
-    "image": "https://upload.wikimedia.org/wikipedia/en/7/70/Super_Zangief.png",
+    "image": "https://vignette.wikia.nocookie.net/legendsofthemultiuniverse/images/3/30/Baraka_StanceAnim04_zps97994f7c.gif/revision/latest?cb=20170411141146",
     "clicked": false
   },
 
   {
     "id": 3,
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/04/Super_Dhalsim.png",
+    "image": "https://orig00.deviantart.net/fc5b/f/2014/163/3/6/mortal_kombat___decaptation_wip_by_jhonatasbatalha-d7m3avl.gif",
     "clicked": false
   },
 
   {
     "id": 4,
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/d6/Super_Honda.png",
+    "image": "http://bestanimations.com/Games/Computer/MortalCombat/LiuKang/mortalkombatanimation-17.gif",
     "clicked": false
   },
 
   {
     "id": 5,
-    "image": "https://upload.wikimedia.org/wikipedia/en/f/f4/Chun-Li_tatsunoko.png",
+    "image": "https://thumbs.gfycat.com/ColorfulTenseFrogmouth-max-1mb.gif",
     "clicked": false
   },
 
   {
     "id": 6,
-    "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Bison_%28Super_Street_Fighter_II%29.png",
+    "image": "https://vignette.wikia.nocookie.net/mkwikia/images/6/6e/MK3-Jade-r1.gif/revision/latest?cb=20160123183847",
     "clicked": false
   },
 
   {
     "id": 7,
-    "image": "http://2.bp.blogspot.com/-P_EPYYgeJKI/TdWnTwwTmiI/AAAAAAAABU0/Zb52GGCR-gc/s1600/Render%2B-%2BKen%2B-%2BStreet%2BFighter.png",
+    "image": "https://media.giphy.com/media/UZAqyHENzrmJa/giphy.gif",
     "clicked": false
   },
 
   {
     "id": 8,
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/45/SSFVega.png",
+    "image": "https://vignette1.wikia.nocookie.net/mkwikia/images/2/22/Mortal_kombat_x_ios_johnny_cage_render_2_by_wyruzzah-d8p4rom-1-.png/revision/latest?cb=20150502161811",
     "clicked": false
   },
 
   {
     "id": 9,
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JaxMKXRender.png/260px-JaxMKXRender.png",
+    "image": "https://vignette.wikia.nocookie.net/mkwikia/images/0/09/Sonya_B.png/revision/latest?cb=20110520215648",
     "clicked": false
   },
 
@@ -61,12 +61,60 @@
 
   {
     "id": 11,
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/SubZeroMKXrender.png/265px-SubZeroMKXrender.png",
+    "image": "https://orig00.deviantart.net/89ec/f/2016/039/c/9/mortal_kombat_x__chameleon__klassic__by_ogloc069-d9qydfw.gif",
+    "clicked": false
+  },
+
+   {
+    "id": 12,
+    "image": "https://vignette.wikia.nocookie.net/mkwikia/images/e/ea/MKX_Kano_Render1.png/revision/latest?cb=20150311233035",
+    "clicked": false
+  },
+
+   {
+    "id": 13,
+    "image": "https://vignette.wikia.nocookie.net/smashbroslawlorigins/images/c/c1/Shang_Tsung.png/revision/latest?cb=20130302012757",
+    "clicked": false
+  },
+
+   {
+    "id": 14,
+    "image": "https://media.giphy.com/media/xwZ0NeWQz6CuA/200w.gif",
+    "clicked": false
+  },
+
+   {
+    "id": 15,
+    "image": "http://www.gothers.com/file/pic/photo/83ac958ce3c9798d09d96e94002c42e8_1024.gif",
+    "clicked": false
+  },
+
+   {
+    "id": 16,
+    "image": "https://www.fightersgeneration.com/nz2/char/subzero-mk-hd-stance-cancelled-project.GIF",
+    "clicked": false
+  },
+
+   {
+    "id": 17,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/JaxMKXRender.png/260px-JaxMKXRender.png",
+    "clicked": false
+  },
+
+   {
+    "id": 18,
+    "image": "https://vignette.wikia.nocookie.net/mkwikia/images/3/34/MK4-12_Tanya.png/revision/latest?cb=20120115185105",
+    "clicked": false
+  },
+
+   {
+    "id": 19,
+    "image": "https://mortalkombatspriteedits.weebly.com/uploads/4/8/5/3/4853604/7097.gif",
     "clicked": false
   },
 
   {
-    "id": 12,
+    "id": 20,
     "image": "https://upload.wikimedia.org/wikipedia/ca/d/df/Scorpion_%28Mortal_Kombat%29.png",
     "clicked": false
   }
