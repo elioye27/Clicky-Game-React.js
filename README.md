@@ -18,4 +18,4 @@ In this assignment, I created a created a memory game with React. The objective 
 
 ## Game Preview
 
-![alt text](game-img1.png)
+![Alt Text](game-img1.png)
