@@ -1,9 +1,9 @@
 # HomeWork #19 Clicky-Game-React.js
 
 ### Links:
-- Git Hub: https://github.com/elioye27/Clicky-Game-React.js.git 
-- Host Site: https://elioye27.github.io/Clicky-Game-React.js/
-- Portfolio: https://portfolio-11cf0.firebaseapp.com/contact.html
+* [GitHub](https://github.com/elioye27/Clicky-Game-React.js.git)
+* [Gh-pages](https://elioye27.github.io/Clicky-Game-React.js/)
+* [Portfolio](https://portfolio-11cf0.firebaseapp.com/contact.html) (When you land on the page, click on "Portfolio", then click on "Clicky Game")
 
 ### Summary
 
@@ -18,4 +18,4 @@ In this assignment, I created a created a memory game with React. The objective 
 
 ## Game Preview
 
-![alt text](game-img.jpg)
+![alt text](game-img1.png)
