@@ -7,7 +7,7 @@
 
 ### Summary
 
-In this assignment, I created a created a memory game with React. The objective is for a user to click on a different card each time to earn points. If the same card is clicked twice, the user loses the game.
+In this assignment, I created a memory game with React. The objective is for a user to click on a different card each time to earn points. If the same card is clicked twice, the user loses the game.
 
 ### Technologies Used
 
